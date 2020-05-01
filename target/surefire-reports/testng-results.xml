@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="All Test Suite" duration-ms="20790" started-at="2019-12-07T14:24:40Z" finished-at="2019-12-07T14:25:01Z">
+    <groups>
+    </groups>
+    <test name="C:/Users/piotr/Testuj.pl/src/test/java/Tests/SenditPl.java" duration-ms="20790" started-at="2019-12-07T14:24:40Z" finished-at="2019-12-07T14:25:01Z">
+      <class name="Tests.SenditPl">
+        <test-method status="PASS" signature="OpenBrowser()[pri:0, instance:Tests.SenditPl@59e84876]" name="OpenBrowser" is-config="true" duration-ms="12848" started-at="2019-12-07T14:24:40Z" finished-at="2019-12-07T14:24:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenBrowser -->
+        <test-method status="PASS" signature="Zaloguj()[pri:0, instance:Tests.SenditPl@59e84876]" name="Zaloguj" duration-ms="7085" started-at="2019-12-07T14:24:53Z" finished-at="2019-12-07T14:25:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Zaloguj -->
+        <test-method status="PASS" signature="Shutdown()[pri:0, instance:Tests.SenditPl@59e84876]" name="Shutdown" is-config="true" duration-ms="773" started-at="2019-12-07T14:25:00Z" finished-at="2019-12-07T14:25:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Shutdown -->
+      </class> <!-- Tests.SenditPl -->
+    </test> <!-- C:/Users/piotr/Testuj.pl/src/test/java/Tests/SenditPl.java -->
+  </suite> <!-- All Test Suite -->
+</testng-results>
